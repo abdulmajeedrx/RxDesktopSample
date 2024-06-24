@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<recordtable
+embeddedrepository="False"
+id="e91b26fd-db8d-40ee-91b1-4eeb07e44319"
+mode="Desktop">
+	<repeatcount>
+		1
+	</repeatcount>
+	<turbomode>
+		False
+	</turbomode>
+	<genreport>
+		True
+	</genreport>
+	<speedfactor>
+		1
+	</speedfactor>
+	<useDefaultItemLogging>
+		True
+	</useDefaultItemLogging>
+	<codegen
+	classname="StartAUT"
+	namespace="RxDesktopSample">
+	</codegen>
+	<variables>
+		<var
+		id="67585a4a-6ccf-4a5e-87d3-fb94e7b7f74d"
+		name="StartAutProcessIDVar">
+		</var>
+	</variables>
+	<recorditems>
+		<runapprecorditem
+		enabled="True"
+		maximized="False"
+		optional="False">
+			<comment>
+			</comment>
+			<bindings>
+				<binding
+				target="ReturnVariable"
+				variable="StartAutProcessIDVar">
+				</binding>
+			</bindings>
+			<filename>
+				Microsoft.WindowsCalculator_8wekyb3d8bbwe!App
+			</filename>
+			<args>
+			</args>
+		</runapprecorditem>
+	</recorditems>
+	<repository
+	id="dec524ae-8b2a-45da-a4db-61f2c14fcad3"
+	name="RxDesktopSampleRepository"
+	relativepath="RxDesktopSampleRepository.rxrep">
+		<codegen
+		classname="RxDesktopSampleRepository"
+		namespace="RxDesktopSample">
+		</codegen>
+		<rootfolder
+		id="4d57ecd5-0109-457b-a524-4bf2db888d1f"
+		name="_rootdummy_">
+		</rootfolder>
+	</repository>
+	<usercodefile
+	lang="CSharp">
+		StartAUT.UserCode.cs
+	</usercodefile>
+	<references>
+	</references>
+</recordtable>

@@ -1,0 +1,239 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>RxDesktopSample</name>
+    </assembly>
+    <members>
+        <member name="T:RxDesktopSample.CloseAUT">
+             <summary>
+            The CloseAUT recording.
+             </summary>
+        </member>
+        <member name="F:RxDesktopSample.CloseAUT.repo">
+            <summary>
+            Holds an instance of the RxDesktopSampleRepository repository.
+            </summary>
+        </member>
+        <member name="M:RxDesktopSample.CloseAUT.#ctor">
+            <summary>
+            Constructs a new instance.
+            </summary>
+        </member>
+        <member name="P:RxDesktopSample.CloseAUT.Instance">
+            <summary>
+            Gets a static instance of this recording.
+            </summary>
+        </member>
+        <member name="P:RxDesktopSample.CloseAUT.CloseAutProcessIDVar">
+            <summary>
+            Gets or sets the value of variable CloseAutProcessIDVar.
+            </summary>
+        </member>
+        <member name="M:RxDesktopSample.CloseAUT.Start">
+            <summary>
+            Starts the replay of the static recording <see cref="P:RxDesktopSample.CloseAUT.Instance"/>.
+            </summary>
+        </member>
+        <member name="M:RxDesktopSample.CloseAUT.Ranorex#Core#Testing#ITestModule#Run">
+            <summary>
+            Performs the playback of actions in this recording.
+            </summary>
+            <remarks>You should not call this method directly, instead pass the module
+            instance to the <see cref="M:Ranorex.Core.Testing.TestModuleRunner.Run(Ranorex.Core.Testing.ITestModule)"/> method
+            that will in turn invoke this method.</remarks>
+        </member>
+        <member name="M:RxDesktopSample.CloseAUT.Init">
+            <summary>
+            This method gets called right after the recording has been started.
+            It can be used to execute recording specific initialization code.
+            </summary>
+        </member>
+        <member name="T:RxDesktopSample.Recording1">
+             <summary>
+            The Recording1 recording.
+             </summary>
+        </member>
+        <member name="F:RxDesktopSample.Recording1.repo">
+            <summary>
+            Holds an instance of the RxDesktopSampleRepository repository.
+            </summary>
+        </member>
+        <member name="M:RxDesktopSample.Recording1.#ctor">
+            <summary>
+            Constructs a new instance.
+            </summary>
+        </member>
+        <member name="P:RxDesktopSample.Recording1.Instance">
+            <summary>
+            Gets a static instance of this recording.
+            </summary>
+        </member>
+        <member name="M:RxDesktopSample.Recording1.Start">
+            <summary>
+            Starts the replay of the static recording <see cref="P:RxDesktopSample.Recording1.Instance"/>.
+            </summary>
+        </member>
+        <member name="M:RxDesktopSample.Recording1.Ranorex#Core#Testing#ITestModule#Run">
+            <summary>
+            Performs the playback of actions in this recording.
+            </summary>
+            <remarks>You should not call this method directly, instead pass the module
+            instance to the <see cref="M:Ranorex.Core.Testing.TestModuleRunner.Run(Ranorex.Core.Testing.ITestModule)"/> method
+            that will in turn invoke this method.</remarks>
+        </member>
+        <member name="M:RxDesktopSample.Recording1.Init">
+            <summary>
+            This method gets called right after the recording has been started.
+            It can be used to execute recording specific initialization code.
+            </summary>
+        </member>
+        <member name="T:RxDesktopSample.RxDesktopSampleRepository">
+            <summary>
+            The class representing the RxDesktopSampleRepository element repository.
+            </summary>
+        </member>
+        <member name="P:RxDesktopSample.RxDesktopSampleRepository.Instance">
+            <summary>
+            Gets the singleton class instance representing the RxDesktopSampleRepository element repository.
+            </summary>
+        </member>
+        <member name="M:RxDesktopSample.RxDesktopSampleRepository.#ctor">
+            <summary>
+            Repository class constructor.
+            </summary>
+        </member>
+        <member name="P:RxDesktopSample.RxDesktopSampleRepository.SelfInfo">
+            <summary>
+            The Self item info.
+            </summary>
+        </member>
+        <member name="P:RxDesktopSample.RxDesktopSampleRepository.Calculator">
+            <summary>
+            The Calculator folder.
+            </summary>
+        </member>
+        <member name="T:RxDesktopSample.RxDesktopSampleRepositoryFolders">
+            <summary>
+            Inner folder classes.
+            </summary>
+        </member>
+        <member name="T:RxDesktopSample.RxDesktopSampleRepositoryFolders.CalculatorAppFolder">
+            <summary>
+            The CalculatorAppFolder folder.
+            </summary>
+        </member>
+        <member name="M:RxDesktopSample.RxDesktopSampleRepositoryFolders.CalculatorAppFolder.#ctor(Ranorex.Core.Repository.RepoGenBaseFolder)">
+            <summary>
+            Creates a new Calculator  folder.
+            </summary>
+        </member>
+        <member name="P:RxDesktopSample.RxDesktopSampleRepositoryFolders.CalculatorAppFolder.Self">
+            <summary>
+            The Self item.
+            </summary>
+        </member>
+        <member name="P:RxDesktopSample.RxDesktopSampleRepositoryFolders.CalculatorAppFolder.SelfInfo">
+            <summary>
+            The Self item info.
+            </summary>
+        </member>
+        <member name="P:RxDesktopSample.RxDesktopSampleRepositoryFolders.CalculatorAppFolder.Num7Button">
+            <summary>
+            The Num7Button item.
+            </summary>
+        </member>
+        <member name="P:RxDesktopSample.RxDesktopSampleRepositoryFolders.CalculatorAppFolder.Num7ButtonInfo">
+            <summary>
+            The Num7Button item info.
+            </summary>
+        </member>
+        <member name="P:RxDesktopSample.RxDesktopSampleRepositoryFolders.CalculatorAppFolder.PlusButton">
+            <summary>
+            The PlusButton item.
+            </summary>
+        </member>
+        <member name="P:RxDesktopSample.RxDesktopSampleRepositoryFolders.CalculatorAppFolder.PlusButtonInfo">
+            <summary>
+            The PlusButton item info.
+            </summary>
+        </member>
+        <member name="P:RxDesktopSample.RxDesktopSampleRepositoryFolders.CalculatorAppFolder.Num3Button">
+            <summary>
+            The Num3Button item.
+            </summary>
+        </member>
+        <member name="P:RxDesktopSample.RxDesktopSampleRepositoryFolders.CalculatorAppFolder.Num3ButtonInfo">
+            <summary>
+            The Num3Button item info.
+            </summary>
+        </member>
+        <member name="P:RxDesktopSample.RxDesktopSampleRepositoryFolders.CalculatorAppFolder.EqualButton">
+            <summary>
+            The EqualButton item.
+            </summary>
+        </member>
+        <member name="P:RxDesktopSample.RxDesktopSampleRepositoryFolders.CalculatorAppFolder.EqualButtonInfo">
+            <summary>
+            The EqualButton item info.
+            </summary>
+        </member>
+        <member name="T:RxDesktopSample.StartAUT">
+             <summary>
+            The StartAUT recording.
+             </summary>
+        </member>
+        <member name="F:RxDesktopSample.StartAUT.repo">
+            <summary>
+            Holds an instance of the RxDesktopSampleRepository repository.
+            </summary>
+        </member>
+        <member name="M:RxDesktopSample.StartAUT.#ctor">
+            <summary>
+            Constructs a new instance.
+            </summary>
+        </member>
+        <member name="P:RxDesktopSample.StartAUT.Instance">
+            <summary>
+            Gets a static instance of this recording.
+            </summary>
+        </member>
+        <member name="P:RxDesktopSample.StartAUT.StartAutProcessIDVar">
+            <summary>
+            Gets or sets the value of variable StartAutProcessIDVar.
+            </summary>
+        </member>
+        <member name="M:RxDesktopSample.StartAUT.Start">
+            <summary>
+            Starts the replay of the static recording <see cref="P:RxDesktopSample.StartAUT.Instance"/>.
+            </summary>
+        </member>
+        <member name="M:RxDesktopSample.StartAUT.Ranorex#Core#Testing#ITestModule#Run">
+            <summary>
+            Performs the playback of actions in this recording.
+            </summary>
+            <remarks>You should not call this method directly, instead pass the module
+            instance to the <see cref="M:Ranorex.Core.Testing.TestModuleRunner.Run(Ranorex.Core.Testing.ITestModule)"/> method
+            that will in turn invoke this method.</remarks>
+        </member>
+        <member name="M:RxDesktopSample.StartAUT.Init">
+            <summary>
+            This method gets called right after the recording has been started.
+            It can be used to execute recording specific initialization code.
+            </summary>
+        </member>
+        <member name="T:__RxMain.__RxProgram">
+            <summary>
+            Modified Program class that ensures that the Ranorex System gets initialized and cleaned up
+            correctly. This file is auto-generated during project build. This class will invoke the
+            original 'Main' method implementation as needed.
+            </summary>
+        </member>
+        <member name="M:__RxMain.__RxProgram.Main(System.String[])">
+            <summary>
+            The entry point of the application.
+            </summary>
+            <param name="args">Contains any number of command line arguments.</param>
+            <returns>The return value of the projects original 'Main' implementation.</returns>
+        </member>
+    </members>
+</doc>

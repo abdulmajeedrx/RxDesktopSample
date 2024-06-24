@@ -1,0 +1,12 @@
+C:\Users\HP\Documents\Ranorex\RanorexStudio Projects\RxDesktopSample\RxDesktopSample\bin\Debug\RxDesktopSample.rxtmg
+C:\Users\HP\Documents\Ranorex\RanorexStudio Projects\RxDesktopSample\RxDesktopSample\bin\Debug\RxDesktopSample.rxtst
+C:\Users\HP\Documents\Ranorex\RanorexStudio Projects\RxDesktopSample\RxDesktopSample\bin\Debug\RxDesktopSample.exe.config
+C:\Users\HP\Documents\Ranorex\RanorexStudio Projects\RxDesktopSample\RxDesktopSample\bin\Debug\RxDesktopSample.xml
+C:\Users\HP\Documents\Ranorex\RanorexStudio Projects\RxDesktopSample\RxDesktopSample\bin\Debug\RxDesktopSample.exe
+C:\Users\HP\Documents\Ranorex\RanorexStudio Projects\RxDesktopSample\RxDesktopSample\bin\Debug\RxDesktopSample.pdb
+C:\Users\HP\Documents\Ranorex\RanorexStudio Projects\RxDesktopSample\RxDesktopSample\bin\Debug\Ranorex.Core.Resolver.dll
+C:\Users\HP\Documents\Ranorex\RanorexStudio Projects\RxDesktopSample\RxDesktopSample\obj\x86\Debug\RxDesktopSample.csproj.AssemblyReference.cache
+C:\Users\HP\Documents\Ranorex\RanorexStudio Projects\RxDesktopSample\RxDesktopSample\obj\x86\Debug\RxDesktopSample.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\Ranorex\RanorexStudio Projects\RxDesktopSample\RxDesktopSample\obj\x86\Debug\RxDesktopSample.csproj.CopyComplete
+C:\Users\HP\Documents\Ranorex\RanorexStudio Projects\RxDesktopSample\RxDesktopSample\obj\x86\Debug\RxDesktopSample.exe
+C:\Users\HP\Documents\Ranorex\RanorexStudio Projects\RxDesktopSample\RxDesktopSample\obj\x86\Debug\RxDesktopSample.pdb
